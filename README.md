@@ -1,2 +1,2 @@
 # WebsitePractice
-个人网站联系
+个人网站练习
